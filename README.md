@@ -242,7 +242,7 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=GoneSeeder&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6)
+![GitHub Trophies](https://trophygh.kolioaris.xyz/?username=GoneSeeder&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6)
 
 </div>
 
@@ -262,7 +262,7 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/github-contribution-grid-snake-dark.svg?v=20260618)
 
 </div>
 
