@@ -62,7 +62,7 @@ I use AI-assisted development as an engineering accelerator for analysis, implem
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vscode&theme=dark" alt="Cloud DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,linux,vscode&theme=dark" alt="Cloud DevOps and Tooling" />
 </p>
 
 ---
@@ -195,6 +195,11 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 ![AWS Learning](https://img.shields.io/badge/AWS-Cloud%20Foundations%20Track-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Cloud Architecture](https://img.shields.io/badge/Cloud%20Architecture-Study%20Track-7C3AED?style=for-the-badge&labelColor=111827)
 
+### Google Cloud
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Learning%20%26%20Hands--on-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Deployment](https://img.shields.io/badge/Cloud%20Deployment-GCP%20Services-7C3AED?style=for-the-badge&labelColor=111827)
+
 ### Oracle
 
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL%20and%20Database%20Track-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -242,7 +247,7 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 <div align="center">
 
-![GitHub Trophies](https://trophygh.kolioaris.xyz/?username=GoneSeeder&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6)
+![GitHub Achievements](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/metrics.achievements.svg)
 
 </div>
 
@@ -252,7 +257,7 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GoneSeeder&theme=github-compact&bg_color=0B0714&color=A78BFA&line=7C3AED&point=38BDF8&area=true&area_color=312E81&hide_border=true)
+![Contribution Calendar](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/metrics.isocalendar.svg)
 
 </div>
 
@@ -262,7 +267,7 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/github-contribution-grid-snake-dark.svg?v=20260618)
+![Contribution Snake](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/github-contribution-grid-snake-dark.svg?v=20261022)
 
 </div>
 
@@ -277,6 +282,7 @@ Learning:
   - calendar and scheduling systems
   - authentication and role-based access control
   - AI-assisted development workflows
+  - Google Cloud services and deployment
 
 Building:
   - G-HUB ERP
