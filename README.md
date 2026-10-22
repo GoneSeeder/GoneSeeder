@@ -243,11 +243,11 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-![GitHub Achievements](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/metrics.achievements.svg)
+![GitHub Highlights](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/metrics/metrics.highlights.svg)
 
 </div>
 
@@ -257,7 +257,7 @@ Building full-stack business systems with a focus on ERP workflows, internal pla
 
 <div align="center">
 
-![Contribution Calendar](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/output/metrics.isocalendar.svg)
+![Contribution Calendar](https://raw.githubusercontent.com/GoneSeeder/GoneSeeder/metrics/metrics.isocalendar.svg)
 
 </div>
 
